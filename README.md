@@ -1,4 +1,4 @@
-# example_light_dark_theme
+# Example light/dark theme 
 
 Base project created to have the basic/necessary settings for a light and dark themed app. In addition to having some example Widgets.
 
